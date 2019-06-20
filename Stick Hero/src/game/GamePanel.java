@@ -1,7 +1,7 @@
-package Game;
+package game;
 
-import Game.Player.Player;
-import Game.Player.Stick;
+import game.Player.Player;
+import game.Player.Stick;
 
 import javax.swing.*;
 import java.awt.*;

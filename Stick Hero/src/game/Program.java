@@ -1,11 +1,9 @@
-package Game;
+package game;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
-import java.security.Key;
-import java.util.ArrayList;
 
 public class Program {
 

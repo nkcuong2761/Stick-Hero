@@ -1,12 +1,11 @@
-package Game.Renderer;
+package game.Renderer;
 
-import Game.GameObject;
+import game.GameObject;
 import tklibs.SpriteUtils;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class Renderer {

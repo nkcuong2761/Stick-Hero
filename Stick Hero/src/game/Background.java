@@ -1,11 +1,6 @@
-package Game;
+package game;
 
-import Game.Renderer.Renderer;
-import tklibs.SpriteUtils;
-
-import java.awt.*;
-import java.awt.image.BufferedImage;
-import java.util.Vector;
+import game.Renderer.Renderer;
 
 public class Background extends GameObject {
 

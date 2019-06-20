@@ -1,7 +1,7 @@
-package Game;
+package game;
 
-import Game.Renderer.Renderer;
-import Game.physics.BoxCollider;
+import game.Renderer.Renderer;
+import game.physics.BoxCollider;
 import java.awt.*;
 import java.util.ArrayList;
 

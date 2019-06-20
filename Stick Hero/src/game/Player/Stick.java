@@ -1,15 +1,11 @@
-package Game.Player;
+package game.Player;
 
-import Game.GameObject;
-import Game.KeyEventPress;
-import Game.Renderer.Renderer;
-import Game.Settings;
-import Game.physics.BoxCollider;
+import game.GameObject;
+import game.KeyEventPress;
+import game.Settings;
+import game.physics.BoxCollider;
 
 import java.awt.*;
-import java.awt.geom.AffineTransform;
-import java.awt.geom.Rectangle2D;
-import java.awt.image.BufferedImage;
 
 public class Stick extends GameObject {
     public int stickHeight;

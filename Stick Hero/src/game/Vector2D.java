@@ -1,4 +1,4 @@
-package Game;
+package game;
 
 public class Vector2D {
     public double x;
@@ -70,7 +70,7 @@ public class Vector2D {
     }
 
 //    public static void main(String[] args) {
-//        Game.Vector2D v1 = new Game.Vector2D(3,3);
+//        game.Vector2D v1 = new game.Vector2D(3,3);
 //        System.out.println(v1.getLength());
 //        System.out.println(v1.getAngle());
 //        v1.setLength(10);

@@ -1,10 +1,10 @@
-package Game.Player;
+package game.Player;
 
-import Game.GameObject;
-import Game.KeyEventPress;
-import Game.Renderer.Renderer;
-import Game.Settings;
-import Game.physics.BoxCollider;
+import game.GameObject;
+import game.KeyEventPress;
+import game.Renderer.Renderer;
+import game.Settings;
+import game.physics.BoxCollider;
 
 public class Player extends GameObject {
     public Player() {

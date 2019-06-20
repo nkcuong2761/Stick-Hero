@@ -1,8 +1,7 @@
-package Game.physics;
+package game.physics;
 
-import Game.GameObject;
-import Game.Vector2D;
-import tklibs.Rectangle;
+import game.GameObject;
+import game.Vector2D;
 
 public class BoxCollider {
     public Vector2D position;

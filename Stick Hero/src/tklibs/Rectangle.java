@@ -1,6 +1,6 @@
 package tklibs;
 
-import Game.Vector2D;
+import game.Vector2D;
 
 public class Rectangle {
     public Vector2D position;
