@@ -15,4 +15,7 @@ public class Settings {
     public static final int WALL_HEIGHT=GAME_HEIGHT-WALL_Y;
     //stick
     public  static final int STICK_WIDTH=4;
+    
+     public static final int COLUMN_HEIGHT = 150;
+    public static final int COLUMN_TO_EDGE = 140;
 }
